@@ -3,3 +3,4 @@ geopandas==1.1.1
 ipython==9.4.0
 matplotlib==3.10.5
 pandas==2.3.2
+cenpy==1.0.1
