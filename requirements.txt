@@ -1,6 +1,6 @@
 ipykernel==6.30.1
 geopandas==1.1.1
-ipython==9.4.0
-matplotlib==3.10.5
+ipython==9.5.0
+matplotlib==3.10.6
 pandas==2.3.2
 cenpy==1.0.1
